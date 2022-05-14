@@ -1,12 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: Languages (High)
-  description: <ul><li>C# &mdash; [.Net Framework]</li><li>Python &mdash; [Django, Pandas, GeoPandas]</li><li>Web &mdash; [HTML, CSS, JS]</li></ul>
+- skill: Languages
+  description: Python; C#; JavaScript; TSQL
 
-# Communications strategy
-- skill: Languages (Moderate)
-  description: <ul><li>Java &mdash; [Spring]</li><li>SQL &mdash; [MSSQL, MySQL, SQLite]</li><li>Terminal &mdash; [CMD, Powershell, Bash]</li></ul>
+- skill: Databasing
+  description: MSSQL; SQLite; MySQL
 
-# Digital content development and creation
-- skill: Technologies & General 
-  description: Windows (High), MacOS (High), Linux (Moderate), Git(VCS), TFS(VCS), Adobe Suite (Premiere Pro, Photoshop, InDesign), Microsoft Office, JetBrains (Pycharm, Rider, IntelliJ), Computer Hardware 
+- skill: Frameworks
+  description: .NET; React; FastAPI; Django; Docker
+
+- skill: Design & IDE
+  description: VS2022; Rider; PyCharm; DataGrip; SSMS
+
+- skill: Systems
+  description: Windows (10/11; Server); Linux/Unix (PopOS; Ubuntu Server); OSX (>= Mojave)

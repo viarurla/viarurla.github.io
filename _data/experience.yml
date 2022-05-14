@@ -1,19 +1,21 @@
 # Jobs
+# Software Developer
+- company: Landmark Systems Ltd
+  position: Software Developer
+  duration: Sept, 2021 &mdash; Present
+  summary: <ul><li>Facilitating the design and assembly of a new flagship web application using a bespoke framework (Heavy use of .NET; Typescript)</li><li>Adding to and maintaining a legacy Windows Forms application, alternating frequently between .NET Framework and VB.net, ensuring consistent compatibility between new and old projects.</li><li>Spearheading automation utilities to support development and testing efforts, with a focus on providing fast data generation and server management shortcuts. (Python/Rust CLI tools)</li><li>Developing and overseeing CI/CD pipelines, including setup and management of internal web servers (Ubuntu Server; Docker; Nginx)</li></ul>
+
+
 # Junior Software Developer
 - company: Metricell
   position: Junior Software Developer
-  duration: Jan, 2020 &mdash; Present
-  summary: Working as a fullstack web developer, I create interactive dashboards that turn large sources of data into intuitive graphs and tables. To complete this work I am required to know&#58; <ul class="resume-item-list"><li>AngularJS</li><li>MSSQL</li><li>.NET Framework</li><li>TFS (VCS)</li></ul>
+  duration: Jan, 2020 &mdash; Sept, 2021
+  summary: <ul><li>Created and maintained data visualisation applications (Using .NET Framework; AngularJs; MSSQL)</li><li>Performed migrations/iterations on existing tooling to expand automation beyond the QA department.</li><li>Deployed web services to local and remote servers, along with database migration and general maintenance.</li><li>Repaired and upgraded legacy applications, including de-compilation and reverse engineering where necessary.</li></ul>
+
 
 # Quality Assurance Technician
 - company: Metricell
   position: Quality Assurance Technician
   duration: October, 2018 &mdash; Jan, 2020
-  summary: Worked as part of a small QA team with a high workload and tight deadlines, where I taught myself Python and developed tools to enhance testing speed and improve my understanding of software. This was recognised by my peers and led to my shift to development within the company.
+  summary: <ul><li>Handled manual testing of dynamic web applications, from database to frontend.</li><li>Introduced advanced testing tools to the existing workflow (OWASP Zap, Postman, Selenium)</li><li>Developed a custom application to enhance testing speed by automating manual processes. (Python; Django)</li></ul>
 
-
-# Sales Assistant
-- company: GAME Digital PLC
-  position: Sales Assistant
-  duration: Jul, 2018  &mdash; October, 2018
-  summary: Sales assistant responsible for helping customers and ensuring the store shelves kept up to date each day in terms of advertising layout and pricing changes. While only a temporary job, it was invaluable in the development of my social skills.
